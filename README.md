@@ -77,11 +77,13 @@ Issues when integrating new features with existing systems. This challenge can b
 control systems effectively implement continuos integration practices.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing It involves indivividual components of the software to ensure that they are working as indended. This enables the developer 
+to detect bugs at early atages of development and fix them.
+Integration testing It focuses on verifying the interactions between integrated units to ensure that they work together as intended.
+System testing A system a s a whole needs to be tested to ensure that it meets the required specifications.
+Acceptance testing A system must be tested to ensure that it meets business requirements and end users needs are incorporated.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 
