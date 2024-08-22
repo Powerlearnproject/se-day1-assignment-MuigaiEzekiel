@@ -38,7 +38,24 @@ In waterfall risk are identified and are addressed in early stages and issues di
 while Risks are addressed continuous, feedback is received and adjustments made accordingly.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+#Software Developer
+Requirement analysis A software developer has the responsibilty to gather requirements from users so that he can translate
+them into technical specifications.
+A software developer designs the prototype and solutions to the problem gathered.
+A software developer writes the code, test, and maintain it in order to solve the problem.
+A software developer has the responsibility toperform tests to the software followed by debugging to enhance quality assuarance.
 
+#a Quality Assurance Engineer
+Quality Assurance Engineer provides training to other team members on quality assuarance practices.
+Quality Assurance Engineer develops automated testst scripts to enhance efficiency.
+Quality Assurance Engineer works together with proct nmanagers and users to requirements and provide feedback.
+Quality Assurance Engineer ensures that the software products developed with company standards, policies and regulations.
+
+#Project Manager
+A Project Manager determines the budget required in the software development.
+A Project Manager ensures proper allocation of resoucers such as the skilled personnel to make sure that project goals are met.
+A Project Manager ensures that there is a proper coordination among project team to enhance efficiency.
+A Project Manager works closely to monitor that the software being developed meets the specification and ultimate quality assurance.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
