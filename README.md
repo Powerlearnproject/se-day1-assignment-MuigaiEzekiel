@@ -30,7 +30,12 @@ and recommending feasible suggestions for improving the system  functioning.
 System design The logical system design arrived at a result of system analysis is converted into physical system design.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+In water fall model  is sequencial and each phase must be completed in order to proceed to the next phase. while in agile it 
+is  iterative and allows flexibility and adjustments.
+waterfall model is heavily documented at each stage and this makes it  difficult to change after completion of any  phase. 
+While in agile changes can be easily rendered.
+In waterfall risk are identified and are addressed in early stages and issues discovered later can be very tedious. 
+while Risks are addressed continuous, feedback is received and adjustments made accordingly.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
