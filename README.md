@@ -85,6 +85,12 @@ Acceptance testing A system must be tested to ensure that it meets business requ
 
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Referst the practice to the practice of designing and refining prompts to effectively interact with language models.
+Optimizes Model Performance. Effective prompts help language models generate more
+accurate and useful responses, improving overall interaction quality.
+Enhances User Experience. Well-designed prompts lead to clearer and more relevant outputs,
+making interactions with the model more productive and satisfying.
+Supports Diverse Applications: Tailoring prompts to specific tasks or domains enhances the 
+model's utility in various applications, from content creation to customer support.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
