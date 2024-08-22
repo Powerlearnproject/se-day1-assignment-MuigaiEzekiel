@@ -18,10 +18,16 @@ Identify and describe at least three key milestones in the evolution of software
 Developpment of compiler In 1948 Grace Hopper developed the first compiler. A compiler translates
 human readable code into machine code.
 FORTRAN In 1957 a high programming language was released.
-Releasing CASE tools. The first computer aided tools 
+Releasing CASE tools. The first computer aided tools were released.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Preliminary study This is a brief investigation of the system under consideration and gives a clear
+picture of what actually the physical system is.
+Feasibility study It is a preliminary study to determine if an organization should be computerized or 
+an information system should be developed to replace the current one.
+System analysis It si a process of collecting factual data, understand the processes involved identifying problems
+and recommending feasible suggestions for improving the system  functioning.
+System design The logical system design arrived at a result of system analysis is converted into physical system design.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
