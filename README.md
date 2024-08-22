@@ -94,3 +94,10 @@ Supports Diverse Applications: Tailoring prompts to specific tasks or domains en
 model's utility in various applications, from content creation to customer support.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague prompt "compiler"
+Improved prompt "What is a compiler? Explain the difference between compiler and interpreter?
+Improved prompt makes it clear to specify the information required.
+Improved prompt helps us to get detailed information about the difference between compiler and interpreter.
+Using improved prompt helps us to provide specific instructions to enhance relevance and thus the system can understand.
+Improved prompt helps us to use resources efficiently through streamlining follow up questions.
+
