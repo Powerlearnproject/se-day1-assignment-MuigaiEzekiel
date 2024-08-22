@@ -70,7 +70,11 @@ VCS enables developers to work on separete features before merging them into the
 Examples of VCS Git, SUbversion, Mercurial.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Software face security attacks. Software engineers need to conduct regular security audit to mitigate the risks.
+Perfomance optimization during high workloads. Software engineers can use performance testing tools and 
+apply optimizing algorithms to enhance performance.
+Issues when integrating new features with existing systems. This challenge can be solved by use of version 
+control systems effectively implement continuos integration practices.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
